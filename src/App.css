@@ -1,2 +1,28 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.navBox{
+    border: 1px solid black;
+    width:fit-content
+}
+.dropdown{
+    background-color: white;
+    border:none;
+    cursor: pointer;
+
+}
+
+ul{
+    padding:0;
+}
+
+a{
+    text-decoration: none;
+}
+
 .items{
+    list-style: none;
+    border-bottom: 1px solid black;
 }
